@@ -1,0 +1,8 @@
+export const SERVER = "http://localhost:3001"
+export const LOGIN_ENDPOINT = SERVER + "/api/v1/auth"
+export const USER_REGISTRATION_ENDPOINT = SERVER + "/api/v1/users"
+export const PRODUCTS_ENDPOINT = SERVER + "/api/v1/products"
+export const ADDRESSES_ENDPOINT = SERVER + "/api/v1/addresses"
+export const USERS_ENDPOINT = SERVER + "/api/v1/users"
+export const CATEGORIES_ENDPOINT = SERVER + "/api/v1/products/categories"
+export const ORDERS_ENDPOINT = SERVER + "/api/v1/orders"
